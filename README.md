@@ -1,3 +1,8 @@
+# Task Tracker
+
+A task tracking application with a sample JSON server.
+You can set the task, date, time and the reminder setting.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
